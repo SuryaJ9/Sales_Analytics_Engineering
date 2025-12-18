@@ -1,14 +1,14 @@
-## 📊 Sales Analytics Engineering System
+📊 Sales Analytics Engineering System
 Profitability & Revenue Intelligence Platform
 
 End-to-end analytics engineering project that transforms raw sales data into validated, business-ready analytical models using SQL and PostgreSQL.
 
-### 🚀 Project Overview
+🚀 Project Overview
 
 Organizations often have sales data but lack trusted insights into profitability, growth trends, and regional performance.
 This project simulates a real-world analytics engineering workflow where raw data is transformed into a clean, reliable analytics layer that supports:
 
-### Executive decision-making
+Executive decision-making
 
 BI reporting
 
