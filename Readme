@@ -1,14 +1,14 @@
-📊 Sales Analytics Engineering System
+## 📊 Sales Analytics Engineering System
 Profitability & Revenue Intelligence Platform
 
 End-to-end analytics engineering project that transforms raw sales data into validated, business-ready analytical models using SQL and PostgreSQL.
 
-🚀 Project Overview
+### 🚀 Project Overview
 
 Organizations often have sales data but lack trusted insights into profitability, growth trends, and regional performance.
 This project simulates a real-world analytics engineering workflow where raw data is transformed into a clean, reliable analytics layer that supports:
 
-Executive decision-making
+### Executive decision-making
 
 BI reporting
 
@@ -66,33 +66,6 @@ Metrics Layer
 Executive & Analytical Views
 
 
-This layered approach ensures data reliability, scalability, and analytical consistency.
-
-📁 Project Structure
-sales-analytics-engineering/
-├── raw_schema.sql          # Table definitions & data types
-├── data_validation.sql     # Data quality checks & constraints
-├── transformations.sql    # Business logic & transformations
-├── metrics.sql             # Core business metrics
-├── window_functions.sql   # Advanced analytical queries
-├── executive_views.sql    # Executive-ready SQL views
-└── README.md
-
-🗂️ Dataset Schema
-Column Name	Description
-orderDate	Date of order
-orderNumber	Unique order identifier
-quantityOrdered	Units sold
-priceEach	Selling price per unit
-productName	Product name
-productLine	Product category
-buyPrice	Cost price
-city	City of sale
-country	Country of sale
-Sales Value	Total sales amount
-Cost of Sales	Total cost
-Net Profit	Profit per order
-Total_Revenue	Aggregated revenue
 ✅ Data Quality & Validation
 
 Implemented production-style data validation checks including:
@@ -209,22 +182,11 @@ Clean data enables better business and AI decisions
 
 Metrics design is as important as technical implementation
 
-🔮 Future Enhancements
 
-dbt implementation
-
-Incremental data loading
-
-BI dashboard integration
-
-AI-based anomaly detection
-
-Automated data testing
 
 👤 Author
 
 Your Name
 Aspiring Analytics Engineer
 📍 Remote-first
-🔗 GitHub: (add link)
 🔗 LinkedIn: www.linkedin.com/in/jayasuryarn
